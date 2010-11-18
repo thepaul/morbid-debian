@@ -1,0 +1,5 @@
+morbid (0.8.7.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- paul cannon <pik@debian.org>  Thu, 18 Nov 2010 13:16:44 -0700
