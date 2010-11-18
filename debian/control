@@ -9,6 +9,7 @@ Homepage: http://pypi.python.org/pypi/morbid
 Package: python-morbid
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}, python-stomper, python-twisted-core, python-twisted-web, python-zope.interface, python-cjson | python-simplejson | python (>= 2.6)
+Provides: ${python:Provides}
 Description: Twisted-based messaging broker using the STOMP protocol
  Morbid is a Twisted-based publish/subscribe messaging server that uses the
  STOMP protocol.
